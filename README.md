@@ -4,3 +4,13 @@
 </p>
 
 Il sondaggio per il primo assignment è disponibile al seguente link : https://www.sondaggio-online.com/s/2bb8245
+
+Università degli studi di Salerno
+Corso di Interazione Uomo Macchina
+
+Description
+
+Ecocoin is a Universitary Project that deals with recycling and problems related to waste collections. 
+The project is based on the idea of rewarding virtuos and environmentally friendly people.During the drafting of the project different documents will be provided, where each of these documents corresponds to an assignment
+
+The material used is without copyright. If any violation is present, please report it to us and the material will be immediately removed
