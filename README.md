@@ -4,7 +4,7 @@
 </p>
 
 Il sondaggio per il primo assignment è disponibile al seguente link : https://www.sondaggio-online.com/s/2bb8245
-
+I risultati sono stati inseriti in un file presente qui sopra.
 <p align = "center">
   Università degli studi di Salerno<br>
   Corso di Interazione Uomo Macchina<br><br>
