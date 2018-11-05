@@ -3,7 +3,7 @@
   <img src="https://github.com/Giovannix97/EcoCoin/blob/master/Work%20Product/Images/logoReadMe.jpg" />
 </p>
 
-Il sondaggio per il primo assignment è disponibile al seguente link : https://www.sondaggio-online.com/s/2bb8245
+Il sondaggio per il primo assignment è disponibile al seguente link : https://www.sondaggio-online.com/s/2bb8245 <br>
 I risultati sono stati inseriti in un file presente qui sopra.
 <p align = "center">
   Università degli studi di Salerno<br>
